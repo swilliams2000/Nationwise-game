@@ -1,0 +1,58 @@
+﻿[
+  {
+    "country": "Thailand",
+    "continent": "Asia",
+    "funFact1": "This country has never been colonized by a European power",
+    "population": "50-100M people OR more people than France",
+    "funFact2": "Its monarchy is one of the oldest still in existence",
+    "capital": "Capital begins with 'B' OR famous for street food culture"
+  },
+  {
+    "country": "Peru",
+    "continent": "South America OR Western Hemisphere",
+    "funFact1": "Home to one of the New Seven Wonders of the World",
+    "population": "30-40M people OR fewer people than Japan",
+    "funFact2": "This country was once the center of a vast empire",
+    "capital": "Capital is coastal OR known for large colonial plazas"
+  },
+  {
+    "country": "Japan",
+    "continent": "Island Nation",
+    "funFact1": "This country consists of thousands of islands",
+    "population": "100M+ people OR more people than Mexico",
+    "funFact2": "It has one of the highest life expectancies in the world",
+    "capital": "Capital hosted the Summer Olympics OR largest metro area globally"
+  },
+  {
+    "country": "Morocco",
+    "continent": "Africa",
+    "funFact1": "This country has both Atlantic and Mediterranean coastlines",
+    "population": "35-40M people OR similar population to Canada",
+    "funFact2": "Known for historic cities with ancient medinas",
+    "capital": "Capital is not the largest city OR begins with 'R'"
+  },
+  {
+    "country": "Germany",
+    "continent": "Europe",
+    "funFact1": "This country was once divided into two separate states",
+    "population": "80-85M people OR more people than the UK",
+    "funFact2": "Home to the largest economy in Europe",
+    "capital": "Capital is not the financial center OR known for historic landmarks"
+  },
+  {
+    "country": "Mexico",
+    "continent": "North or South America",
+    "funFact1": "This country is home to multiple ancient civilizations",
+    "population": "120M+ people OR top 15 most populous countries",
+    "funFact2": "Its geography includes deserts, jungles, and mountains",
+    "capital": "Capital built on an ancient city OR among the highest capitals"
+  },
+  {
+    "country": "South Korea",
+    "continent": "Asia",
+    "funFact1": "This country has one of the fastest internet speeds globally",
+    "population": "50-55M people OR fewer people than Germany",
+    "funFact2": "Known for global influence in pop culture and technology",
+    "capital": "Capital begins with 'S' OR one of the most connected cities"
+  }
+]
