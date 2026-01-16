@@ -317,6 +317,164 @@
   }
 }
 
+@media (max-width: 1366px) {
+  .heading {
+    padding: 0 24px;
+  }
+
+  .heading h1 {
+    font-size: 1.3em;
+  }
+
+  .feedback-btn {
+    font-size: 0.85rem;
+    padding: 0.35rem 1.2rem;
+  }
+
+  .Hints {
+    margin-top: 12px;
+    gap: 8px;
+  }
+
+  .hint-card {
+    height: clamp(30px, 2.6vw, 40px);
+  }
+
+  .hint-front,
+  .hint-back {
+    font-size: 12px;
+  }
+
+  .guess-area {
+    margin-top: 8px;
+    gap: 6px;
+  }
+
+  .guess-bar {
+    height: clamp(18px, 1.8vw, 22px);
+    font-size: 12px;
+    overflow: hidden;
+    align-items: center;
+  }
+
+  .guess-flag {
+    width: 24px;
+    height: 16px;
+    object-fit: cover;
+    border-radius: 2px;
+    flex: 0 0 auto;
+  }
+
+  .input-zone {
+    margin-top: 8px;
+    gap: 4px;
+  }
+
+  .guess-input,
+  .submit-btn {
+    height: 32px;
+  }
+}
+
+@media (max-height: 700px) {
+  .heading {
+    padding: 0 24px;
+  }
+
+  .heading h1 {
+    font-size: 1.3em;
+  }
+
+  .feedback-btn {
+    font-size: 0.85rem;
+    padding: 0.35rem 1.2rem;
+  }
+
+  .Hints {
+    margin-top: 14px;
+    gap: 10px;
+  }
+
+  .hint-card {
+    height: clamp(32px, 3vw, 42px);
+  }
+
+  .hint-front,
+  .hint-back {
+    font-size: 12px;
+  }
+
+  .guess-area {
+    margin-top: 10px;
+    gap: 7px;
+  }
+
+  .guess-bar {
+    height: clamp(19px, 2vw, 23px);
+    font-size: 12.5px;
+    overflow: hidden;
+    align-items: center;
+  }
+
+  .guess-flag {
+    width: 24px;
+    height: 16px;
+    object-fit: cover;
+    border-radius: 2px;
+    flex: 0 0 auto;
+  }
+
+  .input-zone {
+    margin-top: 10px;
+    gap: 5px;
+  }
+
+  .guess-input,
+  .submit-btn {
+    height: 34px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .heading h1 {
+    font-size: 1.15em;
+  }
+
+  .hint-front,
+  .hint-back {
+    font-size: 11px;
+  }
+
+  .guess-bar {
+    font-size: 12px;
+  }
+
+  .guess-input {
+    font-size: 12px;
+  }
+
+  .submit-btn {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 600px) {
+  :root {
+    --hint-width: 92vw;
+    --guess-width: 92vw;
+  }
+
+  .hint-card {
+    height: 46px;
+  }
+}
+
+@media (max-width: 500px) {
+  .info-wrap {
+    display: none;
+  }
+}
+
 .win-overlay {
   position: fixed;
   inset: 0;
