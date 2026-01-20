@@ -10,7 +10,12 @@ function Header() {
             Use the hints to guess the correct nation wisely.
           </div>
         </div>
-        <button className="feedback-btn" href="https://www.reddit.com/r/SideProject/comments/1qi4qpx/country_guessing_game/">Criticise Me!</button>
+        <button className="feedback-btn"  onClick={() =>
+    window.open(
+      "https://www.reddit.com/r/SideProject/comments/1qi4qpx/country_guessing_game/",
+      "_blank"
+    )
+  }>Criticise Me!</button>
       </div>
     </header>
   );
